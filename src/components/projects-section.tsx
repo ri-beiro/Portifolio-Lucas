@@ -5,11 +5,11 @@ import { ExternalLink, Github, Code, Globe } from 'lucide-react';
 
 const projects = [
   {
-    title: 'Plataforma de E-commerce Completa',
-    description: 'Plataforma completa de e-commerce com carrinho de compras, sistema de pagamento e dashboard administrativo.',
+    title: 'Landing Page de Lavanderia - Completo',
+    description: 'Site de Lavanderia completo, com localização, contatos, links para whatsapp e Instagram',
     techs: ['HTML/CSS', 'JavaScipt', 'MySQL'],
-   /* github: '#', */
-    demo: 'https://mimostorebrasil.com.br/',
+    github: 'https://github.com/ri-beiro/lavand/settings/pages'
+    demo: 'https://ri-beiro.github.io/lavand/',
     gradient: 'from-purple-500 to-pink-500'
   },
   {

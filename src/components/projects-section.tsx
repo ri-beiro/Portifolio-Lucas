@@ -8,32 +8,24 @@ const projects = [
     title: 'Landing Page de Lavanderia - Completo',
     description: 'Site de Lavanderia completo, com localização, contatos, links para whatsapp e Instagram',
     techs: ['HTML/CSS', 'JavaScipt', 'MySQL'],
-    github: 'https://github.com/ri-beiro/lavand/settings/pages'
+    github: 'https://github.com/ri-beiro/lavand/settings/pages',
     demo: 'https://ri-beiro.github.io/lavand/',
     gradient: 'from-purple-500 to-pink-500'
   },
   {
-    title: 'Jogo da Memória',
-    description: 'Jogo da Memória completo, com sistema de pontuaçãoe ranqueamento!',
-    techs: ['HTML/CSS', 'Javascript'],
-    github: 'https://github.com/ri-beiro/Jogo-da-Memoria',
-    demo: 'https://ri-beiro.github.io/Jogo-da-Memoria/',
-    gradient: 'from-blue-500 to-cyan-500'
-  },
-  {
-    title: 'Site de Receitas',
-    description: 'Site de Receitas em construção, responsivo, sistema de login e cadastro de usuarios',
+    title: 'Landing Page - Stranger Things',
+    description: 'Landing Page criada baseada na série Stranger Things, com design responsivo e interativo.',
     techs: ['HTML/CSS', 'JavaScript', 'MySQL'],
-    github: 'https://github.com/ri-beiro/Site-Receitas',
-    demo: 'https://ri-beiro.github.io/Site-Receitas/',
+    github: 'https://github.com/ri-beiro/Stranger-Things-Landing-Page',
+    demo: 'https://ri-beiro.github.io/Stranger-Things-Landing-Page/',
     gradient: 'from-green-500 to-teal-500'
   },
   {
-    title: 'Portfolio Website',
-    description: 'Site responsivo com animações modernas e sistema de dark/light mode.',
+    title: 'Loja de Pratas - Silver Lady',
+    description: 'Loja criada para venda de pratas, com sistema de carrinho de compras e checkout.',
     techs: ['React', 'TypeScript', 'Tailwind'],
-    github: '#',
-    demo: '#',
+    github: 'https://github.com/ri-beiro/Silver-Lady',
+    demo: 'https://silver-lady.vercel.app',
     gradient: 'from-orange-500 to-red-500'
   },
   {
@@ -45,11 +37,19 @@ const projects = [
     gradient: 'from-indigo-500 to-purple-500'
   },
   {
-    title: 'Mobile App',
-    description: 'Aplicativo mobile para gestão de tarefas com sincronização em nuvem.',
-    techs: ['React Native', 'Node.js', 'MongoDB'],
-    github: '#',
-    demo: '#',
+    title: 'Jogo da Memória',
+    description: 'Jogo da Memória completo, com sistema de pontuaçãoe ranqueamento!',
+    techs: ['HTML/CSS', 'Javascript'],
+    github: 'https://github.com/ri-beiro/Jogo-da-Memoria',
+    demo: 'https://ri-beiro.github.io/Jogo-da-Memoria/',
+    gradient: 'from-blue-500 to-cyan-500'
+  },
+  {
+    title: 'Simulador de Piano',
+    description: 'Simulador de Piano totalmente funcional.',
+    techs: ['HTML/CSS', 'JavaScript'],
+    github: 'https://github.com/ri-beiro/piano-simulator',
+    demo: 'https://ri-beiro.github.io/piano-simulator/',
     gradient: 'from-pink-500 to-rose-500'
   }
 ];
